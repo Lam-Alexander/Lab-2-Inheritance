@@ -1,0 +1,7 @@
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.exe.config
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.exe
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\bin\Debug\Lab 2 Inheritance.pdb
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.csproj.AssemblyReference.cache
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.exe
+C:\Users\LamAl\OneDrive\Documents\SAIT Software Development\Semester 2\Object Oriented Programming 2 (CPRG -211)\Labs\Lab 2 Inheritance\Lab 2 Inheritance\obj\Debug\Lab 2 Inheritance.pdb
